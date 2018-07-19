@@ -8,7 +8,7 @@ Intro: Yay! If you are seeing this, the installation of Kirby worked. :-)
 
 Text:
 
-## Get started now or later
+## Get started now or later or yesterday
 
 - Go to the (link: panel text: Panel) to give Kirby's admin interface a try
 - Check out the (link: http://getkirby.com/docs text: docs) and start building your own site
